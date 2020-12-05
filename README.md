@@ -18,8 +18,8 @@ https://github.com/maorte/Cost_Manager_MobileA_pp
 https://youtu.be/ZhxfRB7BDjs
 
 
-<img src="images/opening.png"  width="300">  <br>
-<img src="images/main.png"  width="300">  <br>
-<img src="images/explain.png"  width="300">  <br>
-<img src="images/ingame1.png"  width="300">  <br>
-<img src="images/ingame2.png"  width="300">  <br>
+<img src="images/opening.PNG"  width="300">  <br>
+<img src="images/main.PNG"  width="300">  <br>
+<img src="images/explain.PNG"  width="300">  <br>
+<img src="images/ingame1.PNG"  width="300">  <br>
+<img src="images/ingame2.PNG"  width="300">  <br>
