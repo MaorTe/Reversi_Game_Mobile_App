@@ -14,7 +14,7 @@ Includes instruction, ingame music and a score board. <br>
 JAVA, Android
 
 ### GIT
-https://github.com/maorte/Cost_Manager_MobileA_pp
+https://github.com/maorte/Reversi_Game_Mobile_App
 
 ### Youtube
 https://youtu.be/ZhxfRB7BDjs
