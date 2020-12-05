@@ -5,13 +5,13 @@ This is a reversi game built with Android Studio. <br>
 
 You can play against another player or against the PC.<br>
 
-PC has easy ,medium or advanced difficulties. <br> 
+PC has easy, medium or advanced difficulties. <br> 
 
-Includes ingame music and a record table. <br>
+Includes instruction, ingame music and a score board. <br>
 
 
 ### Technology 
-JAVA.
+JAVA, Android
 
 ### GIT
 https://github.com/maorte/Cost_Manager_MobileA_pp
