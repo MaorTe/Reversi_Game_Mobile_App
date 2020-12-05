@@ -1,4 +1,4 @@
-"# Reversi_Game_Mobile_App" 
+# Reversi_Game_Mobile_App
 
 ### Introduction<br>
 This is a reversi game built with Android Studio. <br>
