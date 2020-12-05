@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rvesigame</string>
+    <string name="onevsone">1 נגד 1</string>
+    <string name="onevspc">1 נגד המחשב</string>
+    <string name="gameRule">החוקים של המשחק</string>
+    <string name="rule">הציבו את הדיסקים שלכם על הלוח כך שהדיסקים של היריב בין שני דיסקים שלכם במאונך, במאוזן או באלכסון.כך, הדיסקים של היריב ש"נכלאו", משנים את צבעם לצבע שלכם.מטרת המשחק היא להשאר עם יותר דיסקים מאשר ליריב כאשר הלוח התמלא במלואו.</string>
+    <string name="statistics">טבלת שיאים</string>
+    <string name="playerone">שחקן 1:</string>
+    <string name="playertwo">שחקן 2:</string>
+    <string name="must">אתה חייב למעלות את השדה הזה</string>
+    <string name="leveal">בחר רמה</string>
+    <string name="easy">קל</string>
+    <string name="medium">בנוני</string>
+    <string name="hard">קשה</string>
+    <string name="field">אתה חייב למלאות את השדה </string>
+    <string name="playagain">שחק שוב</string>
+    <string name="winner">המנצח הוא</string>
+    <string name="equal">התוצאה היא תיקו</string>
+    <string name="moveline">התור עבר ליריב הבא</string>
+    <string name="movelineblack">התור עבר ליריב השחור</string>
+    <string name="movelinewhite">התור עבר ליריב הלבן</string>
+    <string name="registration">הרשמה</string>
+    <string name="table_score">טבלת שיאים</string>
+    <string name="player1">שחקן 1:</string>
+    <string name="player2">שחקן 2:</string>
+    <string name="players">שחקנים</string>
+    <string name="score">תוצאה</string>
+    <string name="loser">מפסיד</string>
+    <string name="win">מנצח</string>
+    <string name="PC">פיסי</string>
+    <string name="scoregame">שמור תוצאה</string>
+    <string name="back">חזור</string>
+
+</resources>

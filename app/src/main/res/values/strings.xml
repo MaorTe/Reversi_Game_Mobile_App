@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">rvesigame</string>
+    <string name="onevsone">1 vs 1</string>
+    <string name="onevspc">1 vs PC</string>
+    <string name="gameRule">game rules</string>
+    <string name="rule"> Place your discs on your dashboard diagonally, The opponent disks that have been "imprisoned" change their color to your color.The game is more with unapproved discs.</string>
+    <string name="statistics">Statistics</string>
+    <string name="playerone">player 1:</string>
+    <string name="playertwo">player 2:</string>
+    <string name="must">you must fill that field</string>
+    <string name="leveal">select level</string>
+    <string name="easy">easy</string>
+    <string name="medium">medium</string>
+    <string name="hard">hard</string>
+    <string name="field">you must fill that field</string>
+    <string name="playagain">Play again</string>
+    <string name="winner">the winner is</string>
+    <string name="equal">the Score is draw</string>
+    <string name="moveline">The line moves to the next opponent</string>
+    <string name="movelineblack">The line moves to the black opponent</string>
+    <string name="movelinewhite">The line moves to the white opponent</string>
+    <string name="registration">registration</string>
+    <string name="table_score">Table score</string>
+    <string name="player1">Player1:</string>
+    <string name="player2">Player2:</string>
+    <string name="players">players</string>
+    <string name="score">score</string>
+    <string name="loser">lose</string>
+    <string name="win">win</string>
+    <string name="PC">PC</string>
+    <string name="scoregame">save score</string>
+    <string name="back">back</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bluebackground1">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="30dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:id="@+id/go_1">
+<ImageView
+    android:layout_width="200dp"
+    android:layout_height="130dp"
+    android:gravity="center"
+    android:background="@drawable/gameover"/>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:id="@+id/go_2"
+        android:layout_below="@+id/go_1">
+     <TextView
+         android:textColor="@color/colorWhite"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:gravity="center"
+         android:id="@+id/gametext"
+         android:textSize="30sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:gravity="end"
+        android:orientation="horizontal"
+        android:layout_below="@+id/go_2">
+
+        <Button
+            android:id="@+id/savescore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/gameoverbutton"
+            android:text="@string/scoregame"
+            android:textAllCaps="false"
+            android:layout_marginEnd="15dp"
+            android:textColor="@color/colorWhite"/>
+        <Button
+            android:id="@+id/btn_again"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/gameoverbutton"
+            android:layout_gravity="end"
+            android:textColor="@color/colorWhite"
+            android:text="@string/playagain"
+            android:layout_marginEnd="20dp"
+            android:textAllCaps="false"/>
+</LinearLayout>
+
+</RelativeLayout>
