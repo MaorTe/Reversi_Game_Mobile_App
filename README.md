@@ -5,6 +5,8 @@ This is a reversi game built with Android Studio. <br>
 
 You can play against another player or against the PC.<br>
 
+PC has easy ,medium or advanced difficulties. <br> 
+
 Includes ingame music and a record table. <br>
 
 
